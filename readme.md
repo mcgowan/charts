@@ -34,7 +34,7 @@ To zoom in or out, use CTL + scroll (or mousewheel) up or down. Use ALT + Q to r
 
 ### Pan
 
-To pan in any direction, use CTL + drag. Use ALT + Q to reset.
+To pan in any direction, use left mouse button + drag. Use ALT + Q to reset.
 
 ### Modify Visible Range
 
