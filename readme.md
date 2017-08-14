@@ -42,6 +42,8 @@ Flagging a chart using a color can be helpful for categorization purposes.
 
 Flags are not persisted and will be lost when the browser is closed or the application is refreshed.
 
+| Color         | Key       |
+| ------------- |-----------|
 | Toggle Yellow | SHIFT + 1 |
 | Toggle Blue   | SHIFT + 2 |
 | Toggle Red    | SHIFT + 3 |
