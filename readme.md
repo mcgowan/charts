@@ -24,17 +24,21 @@ npm start
 
 ## Features
 
+### Bars or Line Charts
+
+Toggle drawing mode using CTL + M.
+
 ### Zoom
 
-CTL + scroll (or mousewheel) up or down
+To zoom in or out, use CTL + scroll (or mousewheel) up or down. Use ALT + Q to reset.
 
 ### Pan
 
-CTL + drag (in any direction)
+To pan in any direction, use CTL + drag. Use ALT + Q to reset.
 
 ### Modify Visible Range
 
-ALT + drag up or down
+To modify the visible price range of the chart, use ALT + drag up or down. Use ALT + Q to reset.
 
 ### Flag
 
